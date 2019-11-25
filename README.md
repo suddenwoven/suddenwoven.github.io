@@ -19,3 +19,6 @@ I've had to do a significant amount of research to get back into this game, and 
 
 Ensuring all of the data is legible, clear, clean and modern isn't a matter of adding as much #fff or #fafafa as one can imagine, it's a balance, one which will always be close to the heart.
 
+
+The assignment is here: https://github.com/suddenwoven/suddenwoven.github.io
+
